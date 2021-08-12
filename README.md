@@ -4,7 +4,7 @@ You can use a firewall such as Portmaster (FLOSS/FOSS) or Glasswire (Closed Sour
 
 Note: The firewall I'm using (Portmaster) sees both Garena and League of Legends as "Wine Preloader" you can figure out which one is which based on the domains.
 
-Note 2: Much of these are PH Server exclusive if you still want to use this firewall just edit the Domains and replace the PH for your own server. (SG for Singapore, Malaysia and Indonesia, TW for Taiwan, Hong Kong, and Macao, VN for Vietnam,  TH for Taiwan) 
+Note 2: Much of these are PH Server exclusive if you still want to use this firewall just edit the Domains and replace the PH for your own server. (SG for Singapore, Malaysia and Indonesia, TW for Taiwan, Hong Kong, and Macao, VN for Vietnam,  TH for Taiwan)
 (I have no guarantee this will work since I haven't tested this out on other servers)
 
 Note 3: Since Wine is used as a emulator both the Riot Cilent and the League of Legends Cilent are packaged together. This also reduces the amount of granular control between what domains you can block.
