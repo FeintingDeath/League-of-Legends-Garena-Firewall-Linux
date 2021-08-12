@@ -13,8 +13,8 @@ Bugs: Currently Cilent Eternal Sync in Profile might not be working. I'm not sur
 Firewall Blocklist/Whitelist
 
 Garena
-‎insights-collector.newrelic.com
-‎metric-api.newrelic.com
+insights-collector.newrelic.com
+metric-api.newrelic.com
 ajax.googleapis.com
 cdngarenanow-a.akamaihd.net
 lolesports.com
