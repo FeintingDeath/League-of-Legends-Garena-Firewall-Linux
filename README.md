@@ -1,4 +1,4 @@
-[Download](https://github.com/FeintingDeath/League-of-Legends-Garena-Firewall-Linux-/archive/refs/heads/main.zip)
+# [Download](https://github.com/FeintingDeath/League-of-Legends-Garena-Firewall-Linux-/archive/refs/heads/main.zip)
 
 You can use a firewall such as Portmaster (FOSS/FLOSS) or Glasswire (Closed Source) to block these domains.
 
