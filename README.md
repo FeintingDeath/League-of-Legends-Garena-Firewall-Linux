@@ -1,6 +1,6 @@
 # [Download Blocklist/Whitelist](https://github.com/FeintingDeath/League-of-Legends-Garena-Firewall-Linux-/archive/refs/heads/main.zip)
 
-You can use a firewall such as Portmaster (FOSS/FLOSS) or Glasswire (Closed Source) to block these domains.
+You can use a firewall such as Portmaster (FLOSS/FOSS) or Glasswire (Closed Source) to block these domains.
 
 Note: The firewall I'm using (Portmaster) sees both Garena and League of Legends as "Wine Preloader" you can figure out which one is which based on the domains.
 
